@@ -3,7 +3,7 @@
 Grisome starter based on [Ghost Casper V3](https://github.com/TryGhost/Casper) and tailwindcss.
 
 ## Demo
-[https://gridsome-starter-casper-v3.now.sh/](https://gridsome-starter-casper-v3.now.sh/)
+[https://casper.jammeryhq.com](https://casper.jammeryhq.com)
 
 ## Features
 
