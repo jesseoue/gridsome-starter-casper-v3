@@ -1,4 +1,9 @@
 ---
 label: testing
 hide_body: false
-fields: []
+fields:
+- name: adfsssdfsa
+  type: include
+  config: {}
+  template: testing
+  label: adfsssdfsa
